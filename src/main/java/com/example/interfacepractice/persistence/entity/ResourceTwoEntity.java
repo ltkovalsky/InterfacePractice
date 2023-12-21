@@ -1,2 +1,4 @@
-package com.example.interfacepractice.persistence.entity;public class ResourceTwoEntity {
+package com.example.interfacepractice.persistence.entity;
+
+public class ResourceTwoEntity implements EntityMarker{
 }
